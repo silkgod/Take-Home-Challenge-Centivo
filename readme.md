@@ -6,7 +6,7 @@ This project is a simple Node.js Express API that connects to MongoDB and retrie
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone <repo-link>
+   git clone https://github.com/silkgod/Take-Home-Challenge-Centivo
 2. Install dependencies:
    ```
    npm install
